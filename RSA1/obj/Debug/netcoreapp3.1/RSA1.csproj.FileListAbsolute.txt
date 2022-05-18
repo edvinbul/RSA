@@ -1,0 +1,16 @@
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.exe
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.deps.json
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.runtimeconfig.json
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.runtimeconfig.dev.json
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.dll
+F:\C#\RSA\RSA1\RSA1\bin\Debug\netcoreapp3.1\RSA1.pdb
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.Form1.resources
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.csproj.GenerateResource.cache
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.AssemblyInfoInputs.cache
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.AssemblyInfo.cs
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.csproj.CoreCompileInputs.cache
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.dll
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.pdb
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.genruntimeconfig.cache
+F:\C#\RSA\RSA1\RSA1\obj\Debug\netcoreapp3.1\RSA1.csproj.AssemblyReference.cache
